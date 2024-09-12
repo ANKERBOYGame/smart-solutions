@@ -1,12 +1,11 @@
 <x-layouts.app title="about">
     <header>
     <div class="contact_pagina">
-            <h1>Welkom op onze website</h1>
+            <h1>Over ons</h1>
             <p>
-                Welkom op de homepage van Smart-Solutions. 
-                We zijn verheugd dat je hier bent. 
-                Op deze site vind je meer informatie over wie we zijn en hoe je contact met ons kunt opnemen. 
-                Gebruik de navigatie om naar de andere pagina's te gaan.
+                Wij zijn een jong en dynamisch team dat zich richt op het ontwikkelen van innovatieve weboplossingen. 
+                Ons doel is om gebruikersvriendelijke en efficiënte websites te bouwen voor bedrijven van elke omvang. 
+                Onze passie ligt in het verbeteren van de digitale ervaringen van onze klanten.
             </p>
         </div>
     </header>

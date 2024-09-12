@@ -1,5 +1,5 @@
 <footer>
     <div class="footer_p">
-        <p>dit is de footer</p>
+        <p>&copy; 2024 Smart-Solutions. Alle rechten voorbehouden.</p>
     </div>
 </footer>
